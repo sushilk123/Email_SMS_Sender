@@ -11,7 +11,7 @@ This Projects demonstrates how you can send sms or an email using python script
 3. Sending a Plaintext/HTML as an alternative:
 <img src="email_2.png" alt="alt text">
 
-4. Sending a Plaintext/HTML both together:
+4. Sending a Plaintext and HTML together:
 <img src="email_3.png" alt="alt text">
 
 5. Adding Attachments to an email:
