@@ -1,6 +1,9 @@
 # Email_SMS_Sender
 
-This Projects demonstrates how you can send SMS or an Email using python script
+This Projects demonstrates 
+1. how you can send SMS using a python script
+2. how you can send Email using a python script
+3. Google Maps Platform's Distance Metrix API to calculate commute time, and when there's too much traffic, I send an automatic notification about my status to my colleague. The notification is sent through an Email and SMS using a python script.
 
 I. Sending SMS:
 
@@ -58,3 +61,6 @@ In both instances, Gmail will encrypt emails using TLS, as this is the more secu
 
 2 d. Adding Attachments to an email:
 <img src="email_4.png" alt="alt text">
+
+3. Bot to update my traffic status:
+<img src="notification.png" alt="alt text">
