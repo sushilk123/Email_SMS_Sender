@@ -63,4 +63,5 @@ In both instances, Gmail will encrypt emails using TLS, as this is the more secu
 <img src="email_4.png" alt="alt text">
 
 3. Bot to update my traffic status:
-<img src="notification.png" alt="alt text">
+<img src="notification_email.png" alt="alt text">
+<img src="notification_sms.jpg" alt="alt text" width="200" height="400">
