@@ -3,7 +3,7 @@
 This Projects demonstrates 
 1. how you can send SMS using a python script
 2. how you can send Email using a python script
-3. Google Maps Platform's Distance Metrix API to calculate commute time, and when there's too much traffic, I send an automatic notification about my status to my colleague. The notification is sent through an Email and SMS using a python script.
+3. Google Maps Platform's Distance Metrix API to calculate commute time, and when there's too much traffic, I send an automatic notification about my traffic status to my colleague. The notification is sent through an Email and SMS using a python script.
 
 I. Sending SMS:
 
