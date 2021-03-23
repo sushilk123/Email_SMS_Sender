@@ -1,4 +1,4 @@
-# Email_SMS_Sender
+# Notification_Sender
 
 This Projects demonstrates 
 1. how you can send SMS using a python script
